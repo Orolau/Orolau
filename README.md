@@ -21,7 +21,7 @@
     <p style="font-size: 18px; margin-bottom: 24px;">Harnessing technology to turn ideas into reality 🚀</p> 
     <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
         <!-- Iconos de habilidades -->
-        <img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,aws,github,linux,arduino,vscode,java,mysql,kali,ubuntu,wordpress&perline=8"/>
+        <img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,aws,github,linux,arduino,vscode,java,mysql,kali,ubuntu,react,wordpress&perline=8"/>
     </div>
 </div>
 
